@@ -2,23 +2,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919074692450"
-global.ownername = "Abhishek Suresh"
-global.ytname = "YT: Comedy Melody CH"
+global.ownernomer = "2250701832564"
+global.ownername = "julius devis"
+global.ytname = "YT: Comedy elody CH"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Kerala, Idukki"
 
-global.ownernumber = '919074692450'  //creator number
-global.ownername = 'Abhishek Suresh' //owner name
-global.botname = '𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
+global.ownernumber = '2250701832564'  //creator number
+global.ownername = 'julius devils' //owner name
+global.botname = 'julius-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
 
 //sticker details
-global.packname = '🎯𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃'
-global.author = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺 𝚂𝚄𝚁𝙴𝚂𝙷🍀'
+global.packname = '🎯julius-𝙱𝚄𝙶-𝙱𝙾𝚃'
+global.author = 'julius 𝚂𝚄𝚁𝙴𝚂𝙷🍀'
 
 //console view/theme
 global.themeemoji = '🎯'
-global.wm = "©𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃"
+global.wm = "©julius-𝙱𝚄𝙶-𝙱𝙾𝚃"
 
 //theme link
 global.link = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
